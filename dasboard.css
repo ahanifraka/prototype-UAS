@@ -1,0 +1,95 @@
+/* .profile{
+    background-color: white;
+    border-radius: 100%;
+    aspect-ratio: 2/2;
+} */
+
+.dsh {
+    font-family: Inknut Antiqua;
+    background-image: linear-gradient(rgb(7, 7, 72), rgb(148, 152, 244));
+}
+
+.bg-custom {
+    background-image: linear-gradient(rgb(7, 7, 72), rgb(148, 152, 244));
+}
+
+.bg-custom2 {
+    background-image: linear-gradient(rgb(7, 7, 72), rgb(148, 152, 244));
+}
+
+/* img {
+    display: flex;
+    float: right;
+    width: 100px;
+    margin-top: -50px;
+} */
+
+#menu a {
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+.mt-custom{
+    margin-top: 100px;
+    border-radius: 20px;
+    background-color: white;
+    width: 70%;
+    margin-left: 35px;
+}
+
+.mt-custom:hover{
+    background-image: linear-gradient(rgb(17, 17, 247), rgb(206, 207, 236));
+}
+
+.btn-custom{
+    margin-left: 25px;
+    font-size: 18px;
+    background-color: white;
+    width: 80%;
+    border-radius: 10px;
+}
+
+.btn-custom:hover{
+    background-image: linear-gradient(rgb(17, 17, 247), rgb(206, 207, 236));
+    color: black;
+}
+
+.btn-custom2{
+    font-size: 18px;
+    background-color: gray;
+    width: 100%;
+    color: white;
+    border-radius: 0%;
+    margin-top: 400px;
+}
+
+.btn-custom2:hover{
+    background-color: black;
+    color: black;
+}
+
+.card-custom{
+    height: 250px;
+    background-color: gray;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.bg-sidebar{
+    background-image: linear-gradient(rgb(7, 7, 72), rgb(219, 220, 249));
+    margin: 30px;
+    border-radius: 20px;
+}
+
+.bg-custom3 {
+    background-color: gray;
+}
+
+.card-footer i {
+    margin-left: 15px;
+}
+
+.book {
+    width: 200px;
+    height: 100px;
+}
